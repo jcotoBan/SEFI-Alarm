@@ -1,0 +1,8 @@
+---
+config:
+  region:
+  bearerToken:
+  integrationId:
+  tenantId:
+  slackWebhookUrl: 
+  pollIntervalSecs:
